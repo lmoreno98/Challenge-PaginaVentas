@@ -1,0 +1,7 @@
+.productos__nav{
+    margin: 3% 0 1% 0;
+    display: flex;
+    justify-content: space-between;
+    font-family: "Raleway";
+    font-weight: bold;
+}

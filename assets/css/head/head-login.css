@@ -1,0 +1,8 @@
+.head__login{
+    width: 15%;
+    height: 50px;
+    background: none;
+    border: 1px solid #2A7AE4;
+    color: #2A7AE4;
+    cursor: pointer;
+}

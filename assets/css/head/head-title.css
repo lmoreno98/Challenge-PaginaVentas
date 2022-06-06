@@ -1,0 +1,13 @@
+.head__title{
+    display: flex;
+    color: #2A7AE4;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    margin: 5px 2px 0px 5px;
+    font-size: 20px;
+
+}
+
+.head__title p{
+    color: #464646;
+}

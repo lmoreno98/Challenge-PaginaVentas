@@ -1,8 +1,12 @@
 .head__login{
-    width: 15%;
+    width: 100%;
     height: 50px;
     background: none;
     border: 1px solid #2A7AE4;
     color: #2A7AE4;
     cursor: pointer;
+}
+
+.head__login-link{
+    width: 15%;
 }

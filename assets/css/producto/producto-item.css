@@ -3,3 +3,6 @@
     color: #464646;
 }
 
+.producto__item:nth-child(n+7){
+    display:none
+}

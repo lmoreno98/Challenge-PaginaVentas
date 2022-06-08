@@ -1,4 +1,6 @@
 .producto__container{
     width: calc(100% - 20%);
-    margin: 0 auto;
+    margin: 0 auto 3% auto;
+    font-family: "Raleway";
+    color: #464646;
 }

@@ -1,0 +1,12 @@
+.login{
+    background: #E5E5E5;
+    font-family: "Raleway";
+}
+.login__box{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0 auto;
+    padding: 5% 0;
+    align-items: center;
+}

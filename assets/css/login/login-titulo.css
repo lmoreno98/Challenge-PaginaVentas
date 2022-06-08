@@ -1,0 +1,10 @@
+.login__titulo{
+    font-weight: bold;
+    margin-bottom: 2%;
+    font-size: 16px;
+}
+
+.producto__titulo{
+    align-self: flex-start;
+    margin-left: 25%;
+}
